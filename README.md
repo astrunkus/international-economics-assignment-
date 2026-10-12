@@ -10,6 +10,6 @@
 
 For a file on GitHub, use **Download raw file** to download it. Download the research ZIP and extract it for the source data and reproducibility instructions.
 
-The report is a 17-page AI-assisted research draft using a 15-country panel for 2000–2023. The measured outcome is international public clean-energy financing commitments, not total domestic/private investment or disbursements. The baseline association is positive but sensitive to robustness checks; no causal effect is established.
+The report is a revised AI-assisted research draft for Group 17 (14-page PDF) using a 15-country panel for 2000–2023. The measured outcome is international public clean-energy financing commitments, not total domestic/private investment or disbursements. The baseline association is positive but sensitive to robustness checks; no causal effect is established.
 
-Names, student IDs, and group number remain placeholders. The group must verify and substantively revise the final prose to follow the course's authorship rules. AI-detection and plagiarism/similarity scores are not certified. The PDF embeds Liberation Serif as a reading-copy substitute; the Word document specifies Times New Roman 11, 1.5 spacing, and normal margins. No assignment submission or email has been sent.
+Group 17 and all five supplied names and student IDs are included. The group must verify and substantively revise the final prose to follow the course's authorship rules. AI-detection and plagiarism/similarity scores are not certified. The PDF embeds Liberation Serif as a reading-copy substitute; the Word body specifies Times New Roman 11, 1.5 spacing, and normal margins, with a larger cover title. No assignment submission or email has been sent.
